@@ -1,5 +1,6 @@
 # 자바스크립트 기초
-- 각 챕터 실습 사진 <br>
+- 각 챕터 실습 사진
+<br>
 
 1. 자바스크립트 변수와 연산자 연습
 <img width="1004" alt="스크린샷 2025-03-14 오후 5 32 50" src="https://github.com/user-attachments/assets/3e1124ad-0f0a-432e-8fd7-0186644e745d" />
