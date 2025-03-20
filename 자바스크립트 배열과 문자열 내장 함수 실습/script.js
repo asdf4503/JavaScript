@@ -42,7 +42,7 @@ const wordsArray = sampleString.split(" ");
 console.log("단어 배열:", wordsArray);
 document.getElementById("split").textContent = "단어 배열: " + wordsArray;
 
-//아래는 몰라서 찾아본 내용 !!
+//아래는 자세히 알고 싶어서 찾아본 내용 !!
 /*
 String 객체
 문자열을 표현할 때 사용하는 객체
